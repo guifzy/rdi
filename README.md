@@ -1,6 +1,4 @@
-# Trabalho Final – Recuperação da Informação (2025/1)
-
-Este repositório serve como base para o desenvolvimento do trabalho final da disciplina.
+# Recuperação da Informação
 
 # 1. Introdução
 
