@@ -1,6 +1,6 @@
 ---
 title: "Trabalho Final – Recuperação da Informação"
-author: "Lucas de Souza, Guilherme Fernandes, Léo Alec, Samuel Kruguer, Ytalo Nascimento"
+author: "Guilherme Fernandes"
 format: pdf
 number-sections: true
 ---
